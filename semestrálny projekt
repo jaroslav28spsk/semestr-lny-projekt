@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Dáta Bardejov</title>
+</head>
+<body>
+    <header>
+        <h1>Open Dáta Bardejov</h1>
+        <p>Prehľad voľne dostupných dátového portálu mesta Bardejov.</p>
+    </header>
+
+    <section>
+        <h2>Dostupné open dáta</h2>
+        <ul>
+            <li>
+                <a href="https://www.bardejov.sk/sk/otvorene-daty" target="_blank">Open Dáta Mesta Bardejov</a>
+            </li>
+            <li>
+                <a href="https://www.bardejov.sk/sk/doprava" target="_blank">Dáta o doprave v Bardejove</a>
+            </li>
+            <li>
+                <a href="https://www.bardejov.sk/sk/geodata" target="_blank">Geodáta Bardejov</a>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Open Dáta Bardejov</p>
+    </footer>
+</body>
+</html>
